@@ -1,0 +1,38 @@
+{
+  "loc": {
+    "huawei.dir": "D:/TestSpace/hainan/huawei",
+    "zte.dir": "D:/TestSpace/hainan/zte"
+  },
+  "prod": {
+      "huawei.dir": "/home/app/parseService/data/huawei",
+      "zte.dir": "/home/app/parseService/data/zte",
+      "hw1.dir": "/home/app/parseService/data/hw1",
+      "hw2.dir": "/home/app/parseService/data/hw2",
+      "hw3.dir": "/home/app/parseService/data/hw3",
+      "hw4.dir": "/home/app/parseService/data/hw4",
+    "zte1.dir": "/home/app/parseService/data/zte1",
+    "zte2.dir": "/home/app/parseService/data/zte2",
+    "zte3.dir": "/home/app/parseService/data/zte3",
+    "zte4.dir": "/home/app/parseService/data/zte4",
+    "zte5.dir": "/home/app/parseService/data/zte5",
+    "zte6.dir": "/home/app/parseService/data/zte6",
+    "zte7.dir": "/home/app/parseService/data/zte7",
+    "zte8.dir": "/home/app/parseService/data/zte8",
+    "zte9.dir": "/home/app/parseService/data/zte9",
+    "zte10.dir": "/home/app/parseService/data/zte10",
+    "zte11.dir": "/home/app/parseService/data/zte11",
+    "zte12.dir": "/home/app/parseService/data/zte12",
+    "zte13.dir": "/home/app/parseService/data/zte13",
+    "zte14.dir": "/home/app/parseService/data/zte14",
+    "zte15.dir": "/home/app/parseService/data/zte15",
+    "zte16.dir": "/home/app/parseService/data/zte16",
+    "zte17.dir": "/home/app/parseService/data/zte17",
+    "zte18.dir": "/home/app/parseService/data/zte18",
+    "zte19.dir": "/home/app/parseService/data/zte19",
+    "zte20.dir": "/home/app/parseService/data/zte20",
+    "zte21.dir": "/home/app/parseService/data/zte21",
+    "zte22.dir": "/home/app/parseService/data/zte22",
+    "zte23.dir": "/home/app/parseService/data/zte23"
+
+    }
+}
